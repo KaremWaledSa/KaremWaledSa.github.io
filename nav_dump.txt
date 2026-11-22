@@ -1,0 +1,6 @@
+NAV:
+<nav id="site-nav" aria-label="Main navigation"><a href="#work">Work</a><a href="#expertise">Expertise</a><a href="#experience">Experience</a><a href="#research">Research direction</a><a class="nav-contact" href="#contact">Let's talk <span aria-hidden="true">↗</span></a></nav>
+
+--- Lets talk ctx ---
+-label="Main navigation"><a href="#work">Work</a><a href="#expertise">Expertise</a><a href="#experience">Experience</a><a href="#research">Research direction</a><a class="nav-contact" href="#contact">Let's talk <span aria-hidden="true">↗</span></a></nav></div></header><main id="main">
+<section id="top" class="hero"><div class="hero-photo"><img 
